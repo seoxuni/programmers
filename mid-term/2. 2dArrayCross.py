@@ -1,3 +1,4 @@
+#이차원 배열 대각선 순회하기 (181829)
 def solution(board, k):
     answer = 0
     for i in range(len(board)):

@@ -1,3 +1,4 @@
+#콜라츠 수열 만들기 (181919)
 def solution(n):
     answer = []
     while 1:
