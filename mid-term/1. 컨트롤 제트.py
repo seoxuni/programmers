@@ -1,4 +1,4 @@
-#컨트롤 제트 (120853)
+#컨트롤 제트
 def solution(s):
     answer = 0
     s = s.split()

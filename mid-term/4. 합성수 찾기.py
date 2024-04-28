@@ -1,4 +1,4 @@
-#합성수 찾기 (120846)
+#합성수 찾기
 def solution(n):
     answer = 0
     c = 0

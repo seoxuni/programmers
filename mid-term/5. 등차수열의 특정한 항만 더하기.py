@@ -1,4 +1,4 @@
-#등차수열의 특정한 항만 더하기 (181931)
+#등차수열의 특정한 항만 더하기
 def solution(a, d, included):
     answer = 0
     ap = []
