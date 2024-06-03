@@ -1,9 +1,8 @@
 def solution(players, callings):
     result = {}
-    for i in range(len(players)):
-        p = players[i]
+    for i, p in enumerate(players):
         result[p] = i
-
+        
     for who in callings:
         idx = result[who]
         result[who] -= 1
